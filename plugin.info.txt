@@ -1,0 +1,6 @@
+base   simplebox
+author Marc Bulling
+date   2024-05-09
+name   Simple Box
+desc   Adds a box with a color and text
+url    https://www.dokuwiki.org/plugin:simplebox
